@@ -32,5 +32,23 @@ This project demonstrates a complete E-Commerce platform with:
 ### Seller Features
   - Product management
   - Sales reports
-- Order viewing
+  - Order viewing
+    
+## 🛠 Technology Stack
+
+### Backend
+- **Python 3.8+**
+- **Django 4.2** - Web framework
+- **PostgreSQL/MySQL** - Relational database
+- **Django ORM + Raw SQL** - Database operations
+
+### Frontend
+- **HTML5, CSS3, JavaScript**
+- **Bootstrap 5** - UI framework
+- **Bootstrap Icons** - Icon library
+
+### Database Tools
+- **MySQL Workbench** (for MySQL)
+- **pgAdmin** (for PostgreSQL)
+
 
